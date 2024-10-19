@@ -6,7 +6,7 @@
 
 🌱 **Current Goal:** Build a portfolio that reflects persistence and progress, one project at a time.
 
-``````````````````````````````````````
+----------------------------------------------
 
 🚀 Check out my latest projects:
 - Coming soon...
